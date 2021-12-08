@@ -26,6 +26,7 @@
 		7C8A86BD2760CF9200B5D736 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C8A86BF2760CF9200B5D736 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C8A86C52760D47600B5D736 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		7C8A86C72760DCF900B5D736 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		7C8A86A52760CF9000B5D736 = {
 			isa = PBXGroup;
 			children = (
+				7C8A86C72760DCF900B5D736 /* README.md */,
 				7C8A86B02760CF9000B5D736 /* MyCalcApp */,
 				7C8A86AF2760CF9000B5D736 /* Products */,
 			);
